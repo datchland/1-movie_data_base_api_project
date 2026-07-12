@@ -1,6 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-*.db
+*Movies.db
 .env
 .DS_Store
