@@ -1,10 +1,25 @@
-venv/
+# Python
 __pycache__/
-*.pyc
-*Movies.db
-Movies.db
-.env
-.DS_Store
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Database
 *.db
 *.sqlite
 *.sqlite3
+
+# Environment/secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
